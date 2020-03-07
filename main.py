@@ -11,7 +11,7 @@ def perkalian(a,b):
 	return total
 
 def pembagian(a,b):
-	#isi fungsi pembagian diletakkan di variable total
+	total = a / b;
 	return total
 
 def main():
